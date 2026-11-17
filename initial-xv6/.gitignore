@@ -1,4 +1,1 @@
-src/Makefile.test
-src/test_1.c
-src/test_2.c
 tests-out/
